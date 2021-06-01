@@ -2,9 +2,9 @@
 
 ## Installation
 
-Assumming truffle and ganache is installed. Run ganache is backend and metamask connected with it.
+Assumming truffle and ganache is installed. Start ganache and connect with metamask then run the following.
 
-```javascript
+```shell
 truffle migrate
 cd client
 yarn install
